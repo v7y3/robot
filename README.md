@@ -100,7 +100,7 @@ A Penetration Testing Framework, you will have every script that a hacker needs.
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
-bash <(wget -qO- https://git.io/vAtmB)
+bash <(wget -qO- https://raw.githubusercontent.com/v7y3/robot/master/install.sh)
 ```
 
 ## Installation
@@ -140,12 +140,4 @@ docker-compose down # destroys instance
 
 # Screenshots
 
-[![asciicast](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz.png)](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz)
-
-![alt logo](https://media.giphy.com/media/xT0xeFxyHAKirrLa24/giphy.gif)
-
-# Contributors
-
-# License
-
-[MIT Licence](https://github.com/v7y3/robot/blob/master/LICENSE)
+[
